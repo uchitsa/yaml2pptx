@@ -1,0 +1,12 @@
+slides:
+  - title: Introduction
+    content:
+      - Welcome to the presentation
+      - This is a sample slide
+    layout: 1
+    
+  - title: Images Slide
+    images:
+      - path/to/image1.jpg
+      - path/to/image2.jpg
+    layout: 5
